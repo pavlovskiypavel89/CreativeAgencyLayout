@@ -218,7 +218,7 @@ main {
 .banner-section {
   position: relative;
   padding-top: 163px;
-  background: rgb(176, 175, 181) url('./imgs/7c1bg1min.jpg') no-repeat 0 0 / cover;
+  background: rgb(176, 175, 181) url('../imgs/7c1bg1min.jpg') no-repeat 0 0 / cover;
 }
 
 .banner-title {
@@ -329,27 +329,27 @@ main {
 }
 
 .expertise-fact.design-and-dev:before {
-  background: url('./imgs/iexpmin.png') no-repeat 0 0;  
+  background: url('../imgs/iexpmin.png') no-repeat 0 0;  
 }
 
 .expertise-fact.branding:before {
-  background: url('./imgs/iexpmin.png') no-repeat -62px 4px;  
+  background: url('../imgs/iexpmin.png') no-repeat -62px 4px;  
 }
 
 .expertise-fact.mobile-app:before {
-  background: url('./imgs/iexpmin.png') no-repeat -112px 0;  
+  background: url('../imgs/iexpmin.png') no-repeat -112px 0;  
 }
 
 .expertise-fact.seo:before {
-  background: url('./imgs/iexpmin.png') no-repeat -163px 0;  
+  background: url('../imgs/iexpmin.png') no-repeat -163px 0;  
 }
 
 .expertise-fact.game-dev:before {
-  background: url('./imgs/iexpmin.png') no-repeat -220px 0;  
+  background: url('../imgs/iexpmin.png') no-repeat -220px 0;  
 }
 
 .expertise-fact.love:before {
-  background: url('./imgs/iexpmin.png') no-repeat -278px 0;  
+  background: url('../imgs/iexpmin.png') no-repeat -278px 0;  
 }
 
 .with-hover-shadow:hover {
@@ -388,7 +388,7 @@ main {
   position: relative;
   padding-top: 3px;
   font-size: 0px;
-  background: rgb(176, 175, 181) url('./imgs/bg2min.jpg') no-repeat 0 0 / cover;
+  background: rgb(176, 175, 181) url('../imgs/bg2min.jpg') no-repeat 0 0 / cover;
 }
 
 .team.section-title {
@@ -498,7 +498,7 @@ main {
   right: 0;
   width: 8px;
   height: 13px;
-  background: url('./imgs/rightarrmin.png') no-repeat 0 0 ;
+  background: url('../imgs/rightarrmin.png') no-repeat 0 0 ;
 }
 
 .works.cta-txt.underline-from-center:before {
@@ -564,7 +564,7 @@ main {
   position: relative;
   min-height: 400px;
   margin-top: -400px;
-  background: rgb(207, 208, 210) url('./imgs/bgfootermin.jpg') no-repeat 0 0 / cover;
+  background: rgb(207, 208, 210) url('../imgs/bgfootermin.jpg') no-repeat 0 0 / cover;
 }
 
 .footer.block .content-description {
@@ -643,7 +643,7 @@ main {
   left: 0;
   width: 15px;
   height: 20px;
-  background: url('./imgs/ispritesmin.png') no-repeat -103px -128px;
+  background: url('../imgs/ispritesmin.png') no-repeat -103px -128px;
 }
 
 .footer-contacts.tel:after {
@@ -651,7 +651,7 @@ main {
   left: 0;
   width: 18px;
   height: 18px;
-  background: url('./imgs/ispritesmin.png') no-repeat -125px -131px;
+  background: url('../imgs/ispritesmin.png') no-repeat -125px -131px;
 }
 
 .footer-contacts.tel.underline-from-center:hover {
@@ -734,7 +734,7 @@ button[type='submit'].email-submit:before {
   left: calc(50% - 12.5px);
   width: 25px;
   height: 25px;
-  background: url('./imgs/ispritesmin.png') no-repeat -1px -129px;
+  background: url('../imgs/ispritesmin.png') no-repeat -1px -129px;
   outline: none;
 }
 
@@ -767,7 +767,7 @@ button[type='submit'].email-submit:active {
 }
 
 .footer-subscribe .social.fb {
-  background: url('./imgs/ispritesmin.png') no-repeat -1px 0px;
+  background: url('../imgs/ispritesmin.png') no-repeat -1px 0px;
 }
 
 .footer-subscribe .social.fb:hover {
@@ -779,7 +779,7 @@ button[type='submit'].email-submit:active {
 }
 
 .footer-subscribe .social.twitter {
-  background: url('./imgs/ispritesmin.png') no-repeat -43px 0px;
+  background: url('../imgs/ispritesmin.png') no-repeat -43px 0px;
 }
 
 .footer-subscribe .social.twitter:hover {
@@ -791,7 +791,7 @@ button[type='submit'].email-submit:active {
 }
 
 .footer-subscribe .social.dribble {
-  background: url('./imgs/ispritesmin.png') no-repeat -88px 0px;
+  background: url('../imgs/ispritesmin.png') no-repeat -88px 0px;
 }
 
 .footer-subscribe .social.dribble:hover {
@@ -803,7 +803,7 @@ button[type='submit'].email-submit:active {
 }
 
 .footer-subscribe .social.instagram {
-  background: url('./imgs/ispritesmin.png') no-repeat -130px 0px;
+  background: url('../imgs/ispritesmin.png') no-repeat -130px 0px;
 }
 
 .footer-subscribe .social.instagram:hover {
@@ -815,7 +815,7 @@ button[type='submit'].email-submit:active {
 }
 
 .footer-subscribe .social.googleplus {
-  background: url('./imgs/ispritesmin.png') no-repeat -172px 0px;
+  background: url('../imgs/ispritesmin.png') no-repeat -172px 0px;
 }
 
 .footer-subscribe .social.googleplus:hover {
@@ -827,7 +827,7 @@ button[type='submit'].email-submit:active {
 }
 
 .footer-subscribe .social.youtube {
-  background: url('./imgs/ispritesmin.png') no-repeat -216px 0px;
+  background: url('../imgs/ispritesmin.png') no-repeat -216px 0px;
 }
 
 .footer-subscribe .social.youtube:hover {
