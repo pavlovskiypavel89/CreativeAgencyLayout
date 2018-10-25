@@ -838,7 +838,10 @@ button[type='submit'].email-submit:active {
   background-position: -216px -43px;
 }
 
-.footer-subscribe.copyright {
-  font-size: 14px;
+.footer-block.copyright {
+  position: relative;
+  display: block;
+  margin-top: -19px;
   text-align: right;
+  font-size: 14px;
 }
