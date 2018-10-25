@@ -218,7 +218,7 @@ main {
 .banner-section {
 	position: relative;
   padding-top: 163px;
-	background: rgb(176, 175, 181) url('http://u.cubeupload.com/pavelP/7c1bg1min.jpg') no-repeat 0 0 / contain;
+	background: rgb(176, 175, 181) url('http://u.cubeupload.com/pavelP/7c1bg1min.jpg') no-repeat 0 0 / cover;
 }
 
 .banner-title {
@@ -564,7 +564,7 @@ main {
   position: relative;
   min-height: 400px;
   margin-top: -400px;
-  background: rgb(207, 208, 210) url('http://u.cubeupload.com/pavelP/bgfootermin.jpg') no-repeat 0 0 / contain;
+  background: rgb(207, 208, 210) url('http://u.cubeupload.com/pavelP/bgfootermin.jpg') no-repeat 0 0 / cover;
 }
 
 .footer.block .content-description {
