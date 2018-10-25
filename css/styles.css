@@ -27,6 +27,12 @@ ul {
   list-style: none;
 }
 
+img {
+  font-size: 14px !important;
+  text-align: left;
+  text-transform: none;
+}
+
 .content-wrap {
   box-sizing: border-box !important;
   position: relative;
