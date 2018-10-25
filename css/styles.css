@@ -589,6 +589,7 @@ main {
 
 .footer-section.info {
   width: 35.5%;
+  z-index: 1;
 }
 
 .footer-section .logo-link {
