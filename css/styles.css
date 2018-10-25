@@ -6,7 +6,7 @@
 html, body {
   position: relative;
   max-width: 1600px;
-  min-width: 940px;
+  min-width: 960px;
   height: 100%;
   margin: 0 auto;
   font: normal 10px Arial, sans-serif;
