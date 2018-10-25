@@ -1,6 +1,6 @@
 # Дипломный макет курса: "HTML-верстка: с нуля до первого макета" (html-29).
 Задание:
-![01-CreativeTemplate.jpg](https://github.com/pavlovskiypavel89/html-29-diplom/blob/master/01-CreativeTemplate.jpg)
+![02-CreativeAgency.jpg](CreativeAgencyLayout/imgs/02-Creative Agency.jpg)
 
 — Полная вёрстка макета (psd-файл в приложении). 
  
