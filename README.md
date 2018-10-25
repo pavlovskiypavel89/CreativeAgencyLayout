@@ -1,5 +1,5 @@
-# Дипломный макет курса: "HTML-верстка: с нуля до первого макета" (html-29).
-Задание:
+# Page-proofs of CreativeAgency layout .
+Дипломный макет курса: "HTML-верстка: с нуля до первого макета" (html-29):
 ![02-CreativeAgency.jpg](https://github.com/pavlovskiypavel89/CreativeAgencyLayout/blob/master/imgs/02-Creative%20Agency.jpg?raw=true)
 
 — Полная вёрстка макета (psd-файл в приложении). 
