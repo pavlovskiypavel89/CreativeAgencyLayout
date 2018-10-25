@@ -212,59 +212,59 @@ ul {
 /********************************* Banner **********************************/
 
 main {
-	position: relative;
+  position: relative;
 }
 
 .banner-section {
-	position: relative;
+  position: relative;
   padding-top: 163px;
-	background: rgb(176, 175, 181) url('http://u.cubeupload.com/pavelP/7c1bg1min.jpg') no-repeat 0 0 / cover;
+  background: rgb(176, 175, 181) url('http://u.cubeupload.com/pavelP/7c1bg1min.jpg') no-repeat 0 0 / cover;
 }
 
 .banner-title {
-	margin-bottom: 30px;
-	text-transform: capitalize;
+  margin-bottom: 30px;
+  text-transform: capitalize;
 }
 
 .banner-title.with-separator:after {
   height: 1px;
-	background-color: rgb(0, 224, 208);
+  background-color: rgb(0, 224, 208);
 }
 
 .banner-txt {
-	margin-bottom: 45px;
+  margin-bottom: 45px;
   padding: 0 100px;
-	font-size: 14px;
-	line-height: 1.714;
+  font-size: 14px;
+  line-height: 1.714;
 }
 
 .banner-slider {
-	margin-top: 127px;
-	font-size: 0px;
+  margin-top: 127px;
+  font-size: 0px;
 }
 
 .banner-slider-btn {
   display: inline-block;
-	width: 10px;
-	height: 10px;
-	margin-right: 5px;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
   vertical-align: top;
-	border-radius: 10px;
-	border: 1px solid rgb(170, 168, 175);
+  border-radius: 10px;
+  border: 1px solid rgb(170, 168, 175);
   cursor: pointer;
 }
 
 .banner-slider-btn:hover {
-	border: 1px solid rgba(0, 224, 208, 0.8);
+  border: 1px solid rgba(0, 224, 208, 0.8);
 }
 
 .banner-slider-btn.active {
-	border: 1px solid rgba(0, 224, 208, 1);
-	background: rgb(0, 224, 208);
+  border: 1px solid rgba(0, 224, 208, 1);
+  background: rgb(0, 224, 208);
 }
 
 .banner-slider-btn.active:hover {
-	background: rgb(0, 224, 208);
+  background: rgb(0, 224, 208);
   opacity: 0.90;
 }
 
