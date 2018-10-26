@@ -464,8 +464,9 @@ main {
 }
 
 .team-member-foto {
-  width: 220px;
-  margin: 0 -1.05px 20px 0;
+  width: calc(100% - 32px);
+  max-height: 185px;
+  margin: 0 0 20px;
   padding: 23px 0;
   border-radius: 50%;
   user-select: none;
