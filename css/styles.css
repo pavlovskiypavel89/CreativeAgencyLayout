@@ -28,6 +28,7 @@ ul, ol {
 }
 
 img {
+  object-fit: cover;
   font-size: 14px !important;
   text-align: left;
   text-transform: none;
