@@ -249,7 +249,7 @@ main {
 
 .banner-slide > .content-description {
   padding: 230px 0 124px 0;
-  z-index: 2;
+  z-index: 1;
 }
 
 .banner-slider.content-description {
