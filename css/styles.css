@@ -226,7 +226,7 @@ main {
   background-color: rgb(176, 175, 181);
 }
 
-.banner-slides.with-gradient:before {
+.banner-section.with-gradient:before {
   z-index: 1;
 }
 
