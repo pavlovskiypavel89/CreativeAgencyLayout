@@ -543,7 +543,7 @@ main {
 .works.cta-txt:after {
   content: "";
   position: absolute;
-  top: 8px;
+  top: 11px;
   right: 0;
   width: 8px;
   height: 13px;
