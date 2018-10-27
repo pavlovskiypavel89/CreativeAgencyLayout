@@ -9,12 +9,20 @@ html, body {
   min-width: 960px;
   height: 100%;
   margin: 0 auto;
-  font: normal 10px Arial, sans-serif;
+  font: 400 10px/1 Roboto, Arial, sans-serif;
   color: white;
 }
 
 h1 {
-  font: 700 32px/1 Arial, sans-serif;
+  font: 900 32px/1 "Playfair Display", "Georgia", serif;
+}
+
+h2 {
+  font: 700 22px/1 "Playfair Display", "Georgia", serif;
+}
+
+h3 {
+  font: 900 14px/1.733333 Roboto, Arial, sans-serif;
 }
 
 a {
@@ -75,7 +83,7 @@ img {
   width: 120px;
   margin: 0 auto;
   padding: 13px 0;
-  font: 700 12px/1 Arial, sans-serif;
+  font: bold 14px/1 "Hammersmith One", Roboto, Arial, sans-serif;
   color: rgb(0, 224, 208);
   border: 1px solid rgb(0, 224, 208);
   border-radius: 2px;
@@ -154,8 +162,8 @@ img {
   position: relative;
   margin: 0 12px;
   padding: 7px 0;
-  font-size: 12px;
-  font-weight: 700;
+  font-size: 13px;
+  font-weight: 900;
 }
 
 .nav-btn:hover,
@@ -271,8 +279,9 @@ main {
 
 .banner-txt {
   margin-bottom: 45px;
-  padding: 0 100px;
-  font-size: 14px;
+  padding: 0 120px;
+  font-size: 140%;
+  font-weight: 300;
   line-height: 1.714;
 }
 
@@ -287,8 +296,8 @@ main {
   height: 10px;
   margin-right: 5px;
   vertical-align: top;
-  border-radius: 10px;
   border: 1px solid rgb(170, 168, 175);
+  border-radius: 10px;
   cursor: pointer;
 }
 
@@ -314,7 +323,6 @@ main {
 
 .section-title {
   margin-bottom: 15px;
-  font-size: 1.6em;
   text-transform: uppercase;
 }
 
@@ -324,8 +332,7 @@ main {
 }
 
 .section-txt {
-  font-size: 14px;
-  font-weight: 700;
+	font: 400 14px/1 "Playfair Display", "Georgia", serif;
 }
 
 .expertise.section-txt {
@@ -401,7 +408,6 @@ main {
 }
 
 .section-block-title {
-  font-size: 14px;
   text-transform: uppercase;
 }
 
@@ -413,7 +419,8 @@ main {
 .section-block-txt {
   padding: 0 19px;
   font-size: 14px;
-  line-height: 1.6;
+  font-weight: 300;
+  line-height: 1.571;
 }
 
 .expertise-fact-details.section-block-txt {
@@ -430,7 +437,7 @@ main {
 }
 
 .team.section-title {
-  font-size: 16px;
+  
 }
 
 .team.section-txt {
@@ -479,7 +486,9 @@ main {
 
 .cta-txt {
   color: rgb(243, 243, 243);
-  font-size: 12px;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.571;
 }
 
 .team.cta-txt {
@@ -632,9 +641,10 @@ main {
 
 .footer-info.txt-about {
   margin-bottom: 80px;
-  padding-right: 45px;
-  font-size: 14px;
-  line-height: 1.8;
+  padding-right: 48px;
+  font-size: 140%;
+  font-weight: 300;
+  line-height: 1.85;
 }
 
 .footer-section .nav-btn {
@@ -643,6 +653,7 @@ main {
 
 .footer-section .section-title {
   margin-bottom: 38px;
+  font-size: 15px;
 }
 
 
@@ -660,9 +671,10 @@ main {
 .footer-contacts.adress {
   position: relative;
   display: inline-block;
-  margin-bottom: 25px;
-  padding: 0 15px 0 30px;
-  line-height: 1.8;
+  margin-bottom: 20px;
+  padding: 0 16px 0 30px;
+  font-weight: 300;
+  line-height: 1.85;
 }
 
 .footer-contacts.tel {
@@ -670,6 +682,8 @@ main {
   display: inline-block;
   height: 18px;
   padding: 0 15px 7px 30px;
+  font-weight: 300;
+  line-height: 1.85;
 }
 
 .footer-contacts.adress:before,
@@ -725,9 +739,10 @@ main {
 
 .footer-subscribe.email > .email-label {
   position: absolute;
-  top: 14px;
+  top: 16px;
   left: 16px;
-  font-size: 14px;
+  font-size: 140%;
+  font-weight: 300;
   opacity: 0.75; 
   z-index: 0;
   user-select: none;
@@ -741,7 +756,7 @@ main {
   padding: 15px;
   vertical-align: top;
   color: rgba(255, 255, 255, 0.75);
-  font-weight: normal;
+  font-weight: 400;
   border: 1px solid rgba(255, 255, 255, 0.5);
   outline: none;
   background: transparent;
