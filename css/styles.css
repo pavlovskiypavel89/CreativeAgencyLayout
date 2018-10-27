@@ -263,7 +263,7 @@ main {
 .banner-slider.content-description {
   position: relative;
   margin-top: 0;
-  padding-top: 0;
+  padding: 0 0 65px;
   z-index: 1;
 }
 
