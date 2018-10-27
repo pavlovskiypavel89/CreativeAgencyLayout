@@ -144,7 +144,7 @@ img {
 }
 
 .header-block.nav {
-  padding-top: 10px;
+  padding-top: 19px;
 }
 
 .nav-list {
@@ -256,7 +256,7 @@ main {
 }
 
 .banner-slide > .content-description {
-  padding: 230px 0 124px 0;
+  padding: 227px 0 127px 0;
   z-index: 1;
 }
 
@@ -282,7 +282,7 @@ main {
   padding: 0 120px;
   font-size: 140%;
   font-weight: 300;
-  line-height: 1.714;
+  line-height: 1.715;
 }
 
 .banner-slider {
@@ -417,7 +417,7 @@ main {
 }
 
 .section-block-txt {
-  padding: 0 19px;
+  padding: 0 30px;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.571;
@@ -506,7 +506,7 @@ main {
 .works-heading-wrap {
   position: relative;
   max-width: 940px;
-  margin: 0 auto;
+  margin: 0 auto 20px;
 }
 
 .works-heading-wrap:after {
@@ -652,14 +652,14 @@ main {
 }
 
 .footer-section .section-title {
-  margin-bottom: 38px;
+  margin-bottom: 34px;
   font-size: 15px;
 }
 
 
 .footer-section.contacts {
   width: 33%;
-  margin-top: 18px;
+  margin-top: 16px;
 }
 
 .contacts-block {
@@ -671,7 +671,7 @@ main {
 .footer-contacts.adress {
   position: relative;
   display: inline-block;
-  margin-bottom: 20px;
+  margin-bottom: 14px;
   padding: 0 16px 0 30px;
   font-weight: 300;
   line-height: 1.85;
@@ -702,7 +702,7 @@ main {
 }
 
 .footer-contacts.tel:after {
-  top: 0;
+  top: 2px;
   left: 0;
   width: 18px;
   height: 18px;
@@ -729,7 +729,7 @@ main {
 
 .footer-section.subscribe {
   width: 31.5%;
-  margin-top: 18px;
+  margin-top: 16px;
 }
 
 .footer-subscribe.email {
@@ -897,7 +897,7 @@ button[type="submit"].email-submit:active {
 .footer-block.copyright {
   position: relative;
   display: block;
-  margin-top: -19px;
+  margin-top: -12px;
   text-align: right;
   font-size: 14px;
 }
