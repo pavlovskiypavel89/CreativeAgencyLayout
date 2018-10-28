@@ -894,11 +894,11 @@ button[type="submit"].email-submit:active {
   background-position: -216px -43px;
 }
 
-.footer-block {
+.footer-section {
   position: relative;
 }
 
-.footer-block.copyright {
+.footer-section.copyright {
   margin-top: -19px;
   text-align: right;
 }
