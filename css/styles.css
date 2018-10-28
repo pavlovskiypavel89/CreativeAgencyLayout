@@ -14,11 +14,11 @@ html, body {
 }
 
 h1 {
-  font: 900 32px/1 "Playfair Display", "Georgia", serif;
+  font: 900 32px/1 "Playfair Display", Georgia, serif;
 }
 
 h2 {
-  font: 700 22px/1 "Playfair Display", "Georgia", serif;
+  font: 700 22px/1 "Playfair Display", Georgia, serif;
 }
 
 h3 {
