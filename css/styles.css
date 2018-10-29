@@ -25,6 +25,10 @@ h3 {
   font: 900 14px/1.733333 Roboto, Arial, sans-serif;
 }
 
+p {
+  font: 300 14px/1.715 Roboto, Arial, sans-serif;
+}
+
 a {
   color: white;
   text-decoration: none;
@@ -37,7 +41,7 @@ ul, ol {
 
 img {
   object-fit: cover;
-  font-size: 14px !important;
+  font-size: 140% !important;
   text-align: left;
   text-transform: none;
 }
@@ -78,6 +82,20 @@ img {
   text-align: center;
 }
 
+.section-title {
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}
+
+.section-txt {
+  font: 400 14px/1.6 "Playfair Display", "Georgia", serif;
+}
+
+.section-block-txt {
+  padding: 0 30px;
+  line-height: 1.571;
+}
+
 .cta-btn {
   display: block;
   width: 120px;
@@ -97,6 +115,13 @@ img {
 
 .cta-btn:active {
   opacity: 0.75;
+}
+
+.cta-txt {
+  color: rgb(243, 243, 243);
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.571;
 }
 
 .hidden {
@@ -280,9 +305,6 @@ main {
 .banner-txt {
   margin-bottom: 45px;
   padding: 0 120px;
-  font-size: 140%;
-  font-weight: 300;
-  line-height: 1.715;
 }
 
 .banner-slider {
@@ -321,18 +343,9 @@ main {
   padding-top: 72px;
 }
 
-.section-title {
-  margin-bottom: 15px;
-  text-transform: uppercase;
-}
-
 .expertise.section-title,
 .works.section-title {
   color: rgb(65, 61, 75);
-}
-
-.section-txt {
-  font: 400 14px/1 "Playfair Display", "Georgia", serif;
 }
 
 .expertise.section-txt {
@@ -416,13 +429,6 @@ main {
   color: rgb(65, 61, 75);
 }
 
-.section-block-txt {
-  padding: 0 30px;
-  font-size: 14px;
-  font-weight: 300;
-  line-height: 1.571;
-}
-
 .expertise-fact-details.section-block-txt {
   color: rgba(51, 51, 51, 0.75);
 }
@@ -482,13 +488,6 @@ main {
 .team-member-competence.section-block-txt {
   color: rgba(250, 250, 250, 0.7);
   text-transform: uppercase;
-}
-
-.cta-txt {
-  color: rgb(243, 243, 243);
-  font-size: 14px;
-  font-weight: 300;
-  line-height: 1.571;
 }
 
 .team.cta-txt {
@@ -642,8 +641,6 @@ main {
 .footer-info.txt-about {
   margin-bottom: 80px;
   padding-right: 43px;
-  font-size: 140%;
-  font-weight: 300;
   line-height: 1.85;
 }
 
@@ -665,7 +662,9 @@ main {
 .contacts-block {
   display: inline-block;
   vertical-align: top;
-  font-size: 14px;
+  font-size: 140%;
+  font-weight: 300;
+  line-height: 1.85;
 }
 
 .footer-contacts.adress {
@@ -673,8 +672,6 @@ main {
   display: inline-block;
   margin-bottom: 14px;
   padding: 0 44px 0 30px;
-  font-weight: 300;
-  line-height: 1.85;
 }
 
 .footer-contacts.tel {
@@ -682,8 +679,6 @@ main {
   display: inline-block;
   height: 18px;
   padding: 0 15px 7px 30px;
-  font-weight: 300;
-  line-height: 1.85;
 }
 
 .footer-contacts.adress:before,
@@ -735,14 +730,14 @@ main {
 .footer-subscribe.email {
   position: relative;
   margin-bottom: 27px;
+  font-size: 140%;
+  font-weight: 300;
 }
 
 .footer-subscribe.email > .email-label {
   position: absolute;
   top: 16px;
   left: 16px;
-  font-size: 140%;
-  font-weight: 300;
   opacity: 0.75; 
   z-index: 0;
   user-select: none;
@@ -756,7 +751,6 @@ main {
   padding: 15px;
   vertical-align: top;
   color: rgba(255, 255, 255, 0.75);
-  font-weight: 400;
   border: 1px solid rgba(255, 255, 255, 0.5);
   outline: none;
   background: transparent;
@@ -902,5 +896,4 @@ button[type="submit"].email-submit:active {
 
 .copyright-txt {
   display: inline-block;
-  font-size: 14px;
 }
