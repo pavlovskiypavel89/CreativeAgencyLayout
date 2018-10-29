@@ -633,6 +633,7 @@ main {
 }
 
 .footer.block .content-description {
+  max-width: 960px;
   text-align: left;
   font-size: 0;
 }
@@ -642,13 +643,14 @@ main {
   position: relative;
   display: inline-block;
   margin: 4px auto 0;
+  padding-left: 12px;
   vertical-align: top;
   font-size: 10px;
   letter-spacing: 0.4px;
 }
 
 .footer-section.info {
-  width: 34%;
+  width: 33%;
   z-index: 1;
 }
 
@@ -673,7 +675,7 @@ main {
 
 
 .footer-section.contacts {
-  width: 34.5%;
+  width: 33.5%;
   margin-top: 18px;
 }
 
@@ -741,8 +743,12 @@ main {
 
 
 .footer-section.subscribe {
-  width: 31.5%;
+  width: 32.5%;
   margin-top: 18px;
+}
+
+.footer-section.subscribe > .section-title {
+  margin-bottom: 31px;
 }
 
 .footer-subscribe.email {
