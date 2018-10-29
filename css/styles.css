@@ -641,7 +641,7 @@ main {
 .footer-section {
   position: relative;
   display: inline-block;
-  margin: 0 auto;
+  margin: 4px auto 0;
   vertical-align: top;
   font-size: 10px;
 }
@@ -652,13 +652,14 @@ main {
 }
 
 .footer-section .logo-link {
-  margin-bottom: 26px;
+  margin-bottom: 19px;
 }
 
 .footer-info.txt-about {
-  margin-bottom: 80px;
-  padding-right: 43px;
-  line-height: 1.85;
+  margin-bottom: 72px;
+  padding-right: 30px;
+  line-height: 1.87;
+  letter-spacing: 0.4px;
 }
 
 .footer-section .nav-btn {
@@ -673,7 +674,7 @@ main {
 
 .footer-section.contacts {
   width: 34.5%;
-  margin-top: 16px;
+  margin-top: 18px;
 }
 
 .contacts-block {
@@ -741,7 +742,7 @@ main {
 
 .footer-section.subscribe {
   width: 31.5%;
-  margin-top: 16px;
+  margin-top: 18px;
 }
 
 .footer-subscribe.email {
