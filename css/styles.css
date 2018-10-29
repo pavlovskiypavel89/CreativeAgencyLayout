@@ -78,7 +78,7 @@ img {
   position: relative;
   max-width: 940px;
   margin: 0 auto;
-  padding: 67px 0; 
+  padding: 65px 0; 
   text-align: center;
 }
 
@@ -290,7 +290,7 @@ main {
 .banner-slider.content-description {
   position: relative;
   margin-top: 0;
-  padding: 0 0 70px;
+  padding-bottom: 70px;
   z-index: 1;
 }
 
@@ -449,13 +449,12 @@ main {
 
 .team-section {
   position: relative;
-  padding-top: 3px;
   font-size: 0px;
   background: rgb(176, 175, 181) url("../imgs/bg2min.jpg") no-repeat 0 0 / cover;
 }
 
 .team.section-title {
-  margin-top: -3px;
+  margin-top: -1px;
 }
 
 .team.section-txt {
@@ -522,7 +521,7 @@ main {
 .works-heading-wrap {
   position: relative;
   max-width: 940px;
-  margin: -5px auto 25px;
+  margin: -5px auto 29px;
 }
 
 .works-heading-wrap:after {
