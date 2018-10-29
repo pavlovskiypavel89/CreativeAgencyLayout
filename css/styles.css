@@ -290,7 +290,7 @@ main {
 .banner-slider.content-description {
   position: relative;
   margin-top: 0;
-  padding-bottom: 70px;
+  padding: 0 0 70px;
   z-index: 1;
 }
 
@@ -449,6 +449,7 @@ main {
 
 .team-section {
   position: relative;
+  padding: 3px 0;
   font-size: 0px;
   background: rgb(176, 175, 181) url("../imgs/bg2min.jpg") no-repeat 0 0 / cover;
 }
