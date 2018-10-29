@@ -661,7 +661,7 @@ main {
 
 .footer-info.txt-about {
   margin-bottom: 72px;
-  padding-right: 30px;
+  padding-right: 20px;
   line-height: 1.87;
 }
 
@@ -692,7 +692,7 @@ main {
   position: relative;
   display: inline-block;
   margin-bottom: 12px;
-  padding: 0 44px 0 30px;
+  padding: 0 40px 0 30px;
 }
 
 .footer-contacts.tel {
@@ -746,6 +746,7 @@ main {
 .footer-section.subscribe {
   width: 32.5%;
   margin-top: 18px;
+  padding-left: 21px;
 }
 
 .footer-section.subscribe > .section-title {
