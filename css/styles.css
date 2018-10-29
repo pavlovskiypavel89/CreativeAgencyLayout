@@ -94,7 +94,7 @@ img {
 }
 
 .section-block-txt {
-  padding: 0 30px;
+  padding: 0 24px;
   line-height: 1.571;
 }
 
@@ -372,11 +372,16 @@ main {
   border-top: 1px solid rgb(235, 235, 235);
 }
 
+.expertise-facts-row:nth-child(n+2) > .expertise-fact {
+  padding: 39px 4px 34px;
+}
+
 .expertise-fact {
   box-sizing: border-box;
   display: inline-block;
   width: 33.333%;
-  padding: 32px 5px 38px;
+  padding: 34px 5px 38px;
+  letter-spacing: 0.8px;
 }
 
 .expertise-fact:nth-last-child(n+2) {
@@ -388,7 +393,7 @@ main {
   display: inline-block;
   width: 50px;
   height: 50px;
-  margin-bottom: 34px;
+  margin-bottom: 29px;
 }
 
 .expertise-fact.design-and-dev:before {
@@ -430,7 +435,7 @@ main {
 }
 
 .expertise-fact-details.section-block-title {
-  margin-bottom: 20px;
+  margin-bottom: 13px;
   color: rgb(65, 61, 75);
 }
 
