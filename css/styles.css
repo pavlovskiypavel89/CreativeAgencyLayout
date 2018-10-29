@@ -378,11 +378,9 @@ main {
 }
 
 .expertise-fact {
-  box-sizing: border-box;
   display: inline-block;
   width: 33.333%;
-  margin-left: 7px;
-  padding: 34px 5px 38px;
+  padding: 34px 5px 38px 7px;
   letter-spacing: 0.8px;
 }
 
