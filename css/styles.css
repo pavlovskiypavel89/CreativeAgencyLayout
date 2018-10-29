@@ -453,7 +453,7 @@ main {
 }
 
 .team.section-title {
-  
+  margin-top: -3px;
 }
 
 .team.section-txt {
@@ -472,8 +472,8 @@ main {
   width: calc(25% - 15px);
   min-height: 307px;
   height: auto;
-  margin: 0 20px 70px 0;
-  padding-bottom: 17px;
+  margin: 0 20px 66px 0;
+  padding-bottom: 10px;
   vertical-align: top;
   border: 1px solid rgba(250, 250, 250, 0.5);
 }
@@ -489,7 +489,7 @@ main {
 .team-member-foto {
   width: calc(100% - 32px);
   max-height: 185px;
-  margin: 0 0 20px;
+  margin: 0 0 10px;
   padding: 23px 0;
   border-radius: 50%;
   user-select: none;
@@ -502,6 +502,11 @@ main {
 
 .team.cta-txt {
   margin-bottom: 23px;
+  letter-spacing: 0.85px;
+}
+
+.team.cta-btn {
+  padding: 12px 8px;
 }
 
 /********************************* Works Sec **********************************/
@@ -515,7 +520,7 @@ main {
 .works-heading-wrap {
   position: relative;
   max-width: 940px;
-  margin: 0 auto 20px;
+  margin: -5px auto 25px;
 }
 
 .works-heading-wrap:after {
@@ -537,6 +542,7 @@ main {
   margin-bottom: 23px;
   padding: 7px 15px 7px 0;
   color: rgb(65, 61, 75);
+  letter-spacing: 1.15px;
   text-transform: none;
   vertical-align: top;
 }
