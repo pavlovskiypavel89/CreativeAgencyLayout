@@ -640,6 +640,7 @@ main {
 
 
 .footer-section {
+  box-sizing: border-box;
   position: relative;
   display: inline-block;
   margin: 4px auto 0;
