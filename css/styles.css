@@ -617,6 +617,7 @@ main {
 }
 
 .works.cta-btn {
+  padding: 12px 8px;
   text-align: center;
   text-transform: uppercase;
 }
